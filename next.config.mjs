@@ -10,8 +10,8 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  basePath: process.env.NODE_ENV === 'production' ? '/smartpath.gtihub.io' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/smartpath.gtihub.io/' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/smartpath.github.io' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/smartpath.github.io/' : '',
 }
 
 export default nextConfig
