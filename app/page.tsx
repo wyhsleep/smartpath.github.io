@@ -116,7 +116,7 @@ export default function Home() {
             whileHover={{ scale: 1.05 }}
             transition={{ type: "spring", stiffness: 400, damping: 10 }}
           >
-            <Image src="/logo.svg" alt="MEIntelligence Logo" width={160} height={50} priority />
+            <Image src="/smartpath.github.io/logo.svg" alt="MEIntelligence Logo" width={160} height={50} priority />
           </motion.div>
           <div className="w-[160px]"></div> {/* Empty div for balance */}
         </div>
@@ -320,7 +320,7 @@ export default function Home() {
           >
             <div className="aspect-video relative">
               <video className="w-full h-full object-cover" controls>
-                <source src="/1639_1745828331.mp4" type="video/mp4" />
+                <source src="/smartpath.github.io/1639_1745828331.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               <motion.div
