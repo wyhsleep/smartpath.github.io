@@ -210,7 +210,7 @@ export default function Home() {
                     initial={{ borderRadius: "0.375rem" }}
                   >
                     <Link
-                      href="https://huggingface.co/GPFM"
+                      href="https://huggingface.co/majiabo/GPFM"
                       target="_blank"
                       className="inline-flex items-center px-3 py-1.5 bg-white hover:bg-gray-100 rounded-md text-sm transition-colors overflow-hidden border border-gray-200"
                     >
@@ -282,7 +282,7 @@ export default function Home() {
                     initial={{ borderRadius: "0.375rem" }}
                   >
                     <Link
-                      href="https://huggingface.co/mSTAR"
+                      href="https://huggingface.co/Wangyh/mSTAR"
                       target="_blank"
                       className="inline-flex items-center px-3 py-1.5 bg-white hover:bg-gray-100 rounded-md text-sm transition-colors overflow-hidden border border-gray-200"
                     >
